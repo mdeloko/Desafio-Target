@@ -1,0 +1,21 @@
+{
+  "name": "desafio-target",
+  "version": "1.0.0",
+  "description": "Desafio de código para a Target Sistemas",
+  "main": "index.js",
+  "scripts": {
+    "desafio1": "node \"Desafio 1\"/index.js",
+    "desafio2": "node \"Desafio 2\"/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdeloko/Desafio-Target.git"
+  },
+  "author": "Erik Gonçalves Coutinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdeloko/Desafio-Target/issues"
+  },
+  "homepage": "https://github.com/mdeloko/Desafio-Target#readme"
+}
