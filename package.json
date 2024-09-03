@@ -6,7 +6,8 @@
   "scripts": {
     "desafio1": "node \"Desafio 1\"/index.js",
     "desafio2": "node \"Desafio 2\"/index.js",
-    "desafio3": "node \"Desafio 3\"/index.js",
+    "desafio3antigo": "node \"Desafio 3\"/antigo/index.js",
+    "desafio3novo": "node \"Desafio 3\"/novo/index.js",
     "desafio4": "node \"Desafio 4\"/index.js",
     "desafio5": "node \"Desafio 5\"/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"

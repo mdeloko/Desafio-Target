@@ -12,7 +12,7 @@ Imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?  
 R.: 91.
 ---
-## Desafio 3
+## Desafio 3 (Antigo)
 
 Considerando o ano de 2024, seus feriados e fins de semana e os valores fictícios de 50 a 150 por dia trabalhado, gerei o JSON utilizado.
 ---
@@ -22,6 +22,7 @@ Para rodar os códigos, utilizem NodeJS acima de 20.16 (Versão que utilizei) e 
 
 `npm run desafio1`  
 `npm run desafio2 "número fibonacci"`  
-`npm run desafio3 "número do mês desejado"`  
-`npm run desafio4 `  
+`npm run desafio3antigo "número do mês desejado"` - contém a solução antiga sem o JSON Fornecido.  
+`npm run desafio3novo` - contém a solução nova com os dados do JSON fornecido.  
+`npm run desafio4`  
 `npm run desafio5`
